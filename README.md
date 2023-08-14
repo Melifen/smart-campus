@@ -1,4 +1,4 @@
-# smart-campuse（智慧校园）
+# smart-campus（智慧校园）
 
 
 
