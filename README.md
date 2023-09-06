@@ -33,32 +33,32 @@ npm run dev //运行
 
 ##### 登录页
 
-![img](https://gitee.com/melifen/img-repository/raw/master/smart-campus/loginPage.png)
+![img](https://melibees-images.oss-cn-hangzhou.aliyuncs.com/images/loginPage.png)
 
 ##### 主页
 
-![img](https://gitee.com/melifen/img-repository/raw/master/smart-campus/home.png)
+![img](https://melibees-images.oss-cn-hangzhou.aliyuncs.com/images/home.png)
 
 ##### 学生违纪维护
 
-![img](https://gitee.com/melifen/img-repository/raw/master/smart-campus/stuWrong.png)
+![img](https://melibees-images.oss-cn-hangzhou.aliyuncs.com/images/stuWrong.png)
 
 ##### 管理员信息维护
 
-![img](https://gitee.com/melifen/img-repository/raw/master/smart-campus/teacherMgr.png)
+![img](https://melibees-images.oss-cn-hangzhou.aliyuncs.com/images/teacherMgr.png)
 
 ##### 学籍调动审批
 
-![img](https://gitee.com/melifen/img-repository/raw/master/smart-campus/stuTransfer.png)
+![img](https://melibees-images.oss-cn-hangzhou.aliyuncs.com/images/stuTransfer.png)
 
 ##### 贫困资助
 
-![img](https://gitee.com/melifen/img-repository/raw/master/smart-campus/stuSupport.png)
+![img](https://melibees-images.oss-cn-hangzhou.aliyuncs.com/images/stuSupport.png)
 
 ##### 宿舍信息
 
-![img](https://gitee.com/melifen/img-repository/raw/master/smart-campus/dormitoryInfo.png)
+![img](https://melibees-images.oss-cn-hangzhou.aliyuncs.com/images/dormitoryInfo.png)
 
 ##### 宿舍报修
 
-![img](https://gitee.com/melifen/img-repository/raw/master/smart-campus/dormitoryFixInfo.png)
+![img](https://melibees-images.oss-cn-hangzhou.aliyuncs.com/images/dormitoryFixInfo.png)
